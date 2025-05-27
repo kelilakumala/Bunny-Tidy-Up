@@ -18,5 +18,5 @@ With the developed prototype, we created 3 possible test cases to determine the 
 
 _This project was created as a group project for BINUS University's Software Engineering course. A simple prototype was developed and is not officially launched as a downloadable game. No plagiarism is intended._
 
-The Bunny Tidy Up game can be played through the **BUNNY TIDY UP GAME PLAY.exe** file. 
 A technical report has also been uploaded with details regarding the software project management and background of the game.
+Due to the file size limit, the gameplay .exe file cannot be uploaded. However, the game demo can be seen through the link in the **techincal report**
