@@ -19,4 +19,5 @@ With the developed prototype, we created 3 possible test cases to determine the 
 _This project was created as a group project for BINUS University's Software Engineering course. A simple prototype was developed and is not officially launched as a downloadable game. No plagiarism is intended._
 
 A technical report has also been uploaded with details regarding the software project management and background of the game.
-Due to the file size limit, the gameplay .exe file cannot be uploaded. However, the game demo can be seen through the link in the **techincal report**
+Due to the file size limit, the gameplay .exe file cannot be uploaded. However, the game demo can be seen through the following link:
+https://binusianorg-my.sharepoint.com/personal/nicole_alexandra_binus_ac_id/_layouts/15/stream.aspx?id=%2Fpersonal%2Fnicole%5Falexandra%5Fbinus%5Fac%5Fid%2FDocuments%2Fbinus%20files%204%2FSoftware%20engineer%2FBunnyTidyUpDemonstration%2Fgameplayvideo%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E6094f4f4%2Dc18b%2D4cfb%2D88ce%2Dead4d0cc4439
